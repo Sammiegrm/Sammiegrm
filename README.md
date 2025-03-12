@@ -3,8 +3,4 @@
 - 🌱 I’m currently learning ...testnets
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...olasammie2@gmail.com
-
-<!---
-Sammiegrm/Sammiegrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a seasoned Data Analyst with skills Microsoft Excel, Power BI, SQL, Python, Data Visualization.
