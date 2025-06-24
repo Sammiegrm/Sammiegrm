@@ -9,10 +9,10 @@
 
 ### 🔍 About Me
 
-- 🎓 Background: Mechanical & Mechatronics Engineering turned Data Analyst 
-- 🛠️ Tools: Power BI, Excel, SQL, Python  
+- 🎓 Background: Food Science turned Data Analyst 
+- 🛠️ Tools: Power BI, Excel, SQL, Python, Tableau  
 - 📊 Interests: Sales Dashboards, Business Reporting, Forecasting, Data Visualization 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-omolewu-70a0532a9/)  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/samuel-omolewu-70a0532a9/)
 
 ---
 
