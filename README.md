@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-Resume Details
+**Resume Details**
 ![Screenshot 2025-06-24 160257](https://github.com/user-attachments/assets/5a213101-743c-44d0-a35a-eda8e0d63929)
 
 
